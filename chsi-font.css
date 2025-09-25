@@ -1,15 +1,5 @@
 /* ./OFL.txt */
 @font-face {
-            font-family: 'Chsi';
-            font-style: normal;
-            font-weight: 400;
-            font-display: block;
-            src: url('./Chsi_999.woff2?t=1718182345010') format("woff2"),
-                 url('./Chsi_999.woff?t=1718182345010') format("woff"),
-                 url('./Chsi_999.ttf?t=1718182345010') format("truetype");
-            unicode-range: U+0-100000;
-        }
-@font-face {
         font-family: 'Chsi';
         font-style: normal;
         font-weight: 400;
